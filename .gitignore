@@ -1,5 +1,5 @@
 .cordova
-config.xml
+./config.xml
 platforms/
 plugins/
 hooks/
